@@ -6,6 +6,6 @@ BEGIN | END | SPEAKER | TITLE
 ------|-----|---------|------
 18:00 | 18:30 | –   | Walk-in & Drinks
 18:30 | 19:00 | Jaap Brasser | Read the Friendly PowerShell Logs
-19:00 | 20:00 | Aleksandar Nicolić | Just Enough Administration (JEA), a New Solution for Delegated Administration
+19:00 | 20:00 | Aleksandar Nikolić | Just Enough Administration (JEA), a New Solution for Delegated Administration
 20:00 | 20:15 | –   | Break
 20:15 | 21:00 | Flynn Bundy | Getting started with Windows Server Containers
